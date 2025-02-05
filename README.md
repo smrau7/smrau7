@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @smrau7
-- 👀 I’m interested in career switching from graphic design to software engineering.
-- 🌱 I’m currently learning Python and GitHub.
-- 💞️ I’m looking to network and learn more.
+- 👀 I’m interested in career switching from graphic design to software development.
+- 🌱 I’m currently learning Python and GitHub, and refreshing my front-end skills.
+- 💞️ I’m looking to network, continue learning, and get a job.
 - 📫 How to reach me: siobhanmrau@gmail.com
 - 😄 Pronouns: she/her
 
